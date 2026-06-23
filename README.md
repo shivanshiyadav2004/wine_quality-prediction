@@ -34,4 +34,4 @@ Random Forest Classifier
 8. Evaluation
 
 ## Author
-Your Name
+Shivanshi Yadav
