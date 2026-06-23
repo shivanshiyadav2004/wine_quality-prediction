@@ -33,5 +33,10 @@ Random Forest Classifier
 7. Prediction
 8. Evaluation
 
+ ##Key Findings:
+- Alcohol has the strongest positive impact on wine quality.
+- Volatile acidity has a negative impact on wine quality.
+- Random Forest performed well on the dataset.
+
 ## Author
 Shivanshi Yadav
