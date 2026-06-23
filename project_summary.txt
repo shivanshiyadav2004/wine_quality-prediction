@@ -1,0 +1,16 @@
+Project Name: Wine Quality Prediction
+
+Model Used:
+Random Forest Classifier
+
+Dataset Size:
+1599 Records
+
+Features:
+11
+
+Accuracy:
+65.94%
+
+Tools:
+Python, Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn, Google Colab
